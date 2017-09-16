@@ -269,7 +269,7 @@ a:focus {
 .featuresparallax {
     /* The image used */
     background-image: url("../img/achievement.jpg");
-	margin-top:10px;
+	
 
     /* Set a specific height */
     min-height: 300px; 
